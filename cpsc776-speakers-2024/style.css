@@ -17,13 +17,8 @@ h1, h2 {
     color: #666;
     font-style: italic;
 }
-.title {
-    color: #222;
-    cursor: default;
-}
-
-.more-info-toggle {
-    color: #12365c;
+.title, .more-info-toggle {
+    color: #007bff;
     cursor: pointer;
 }
 .abstract {
